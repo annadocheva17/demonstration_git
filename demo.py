@@ -1,4 +1,4 @@
 print("Hello, World!")
 
 def fun(n):
-    return n + 2
+    return n + 5
